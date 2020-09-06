@@ -1,4 +1,4 @@
-Skripte zur Korrektur von Rohdatensätzen.
+Skripte zur Korrektur von Rohdatensätzen aus meiner Masterarbeit.
     Rohdaten stammen aus Aufzeichnungen von Sensordaten eines mobilen Roboters (Laserscans, Odometrie) und einer Motion-Capturing-Anlage (Ground Truth). Die Datenkorrektur dient der Herstellung des Datenformats, welches die SLAM-Algorithmen voraussetzen, die im Rahmen der Evaluation ausgewertet werden sollten.
 
 01_schaubild_trafo_correction.svg - Darstellung der zugrunde liegenden Problematik als Schaubild
